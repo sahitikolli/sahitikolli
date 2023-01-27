@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://preeminent-sunflower-8e1331.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Sahiti Kolli"
