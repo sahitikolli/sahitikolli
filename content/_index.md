@@ -1,7 +1,4 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
-action_type: text
 description: Hi! My name is Sahiti, but most people call me Sahi. I am a statistician and data scientist passionate about using data resposnibly to improve health equity, access, and outcomes.
 image_left: true
 images:
