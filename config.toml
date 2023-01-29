@@ -94,7 +94,7 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://impactstory.org/u/0000-0002-8082-1890"
   [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
+      icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "/blog/index.xml"
 
