@@ -91,7 +91,7 @@ enableEmoji = true
       url       = "https://github.com/apreshill/apero"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
-      icon_pack = "fa"
+      icon_pack = "fab"
       url       = "https://impactstory.org/u/0000-0002-8082-1890"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
