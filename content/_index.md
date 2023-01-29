@@ -8,7 +8,7 @@ images:
 - img/home.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Data Scientist and Biostatistician
+subtitle: Data Science. Healthcare. Statistics.
 text_align_left: false
 title: Sahiti Kolli
 type: home
